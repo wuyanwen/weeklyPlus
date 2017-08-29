@@ -47,7 +47,13 @@ $ npm run start
 # 3. 切回到项目根目录,
 $ npm install 
 $ npm run dev
+
 ```
+##  注意
+*  mongdb 数据库启动的服务端号是10086
+*  server 文件夹启动的服务端号是1111
+*  admin  文件夹启动的服务端号是2222,后台入口默认地址 http://localhost:2222/#/admin
+*   前台默认启动的服务端口号是3333,前台入口默认地址 http://localhost:3333/
 
 ## 最后
 
