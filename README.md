@@ -51,7 +51,8 @@ $ npm run dev
 
 ## 最后
 
-欢迎 issue 和 pr
+* 欢迎 issue 和 pr
+* 欢迎加入前端实战交流QQ群: 541024234
 ## 部分功能截图
 ![image](./screenshot/1.jpg)
 ![image](./screenshot/2.jpg)
