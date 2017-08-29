@@ -2,8 +2,7 @@
 
 ## 项目描述
 
-weeklyPlus vue中文社区周刊服务端渲染升级版 [weeklyPlus](https://github.com/wuyanwen/weeklyPlus/)
-
+weeklyPlus vue中文社区周刊服务端渲染升级版weeklyPlus
 ## 引言
 
 * 为什么要做一个这样的weeklyPlus系统?
