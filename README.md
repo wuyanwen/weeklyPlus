@@ -22,6 +22,7 @@ weeklyPlus vue中文社区周刊服务端渲染升级版 [weeklyPlus](https://gi
 * [koa](http://koajs.com/) -  公开 API 接口
 * [element-ui](http://element.eleme.io/#/zh-CN) - 基础组件库
 * [axios](https://github.com/mzabriskie/axios) - http 请求
+* [less](http://lesscss.org) -  一种动态样式语言
  web 应用
 ## 功能
 
